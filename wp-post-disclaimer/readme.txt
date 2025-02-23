@@ -3,12 +3,14 @@ Author URI: https://profiles.wordpress.org/krunalprajapati41
 Plugin URI: https://wordpress.org/plugins/wp-post-disclaimer/
 Contributors: krunalprajapati41
 Donate link: https://paypal.me/krunalprajapati41/
-Tags: plugin, dislaimer, post disclaimer, warning, notice, alert, product disclaimer, custom post type disclaimer, wordpress post disclaimer, wp post disclaimer, terms, privacy, rules, information
-Requires at least: 3.6 or higher
-Tested up to: 6.4.3
-Requires PHP: 5.2.4 or higher
+Tags: dislaimer, post disclaimer, warning, notice, alert
+Requires at least: 3.6
+Tested up to: 6.7.1
+Requires PHP: 5.2.4
 Stable tag: 1.0.4
 License: GPLv2 or later
+
+Add customizable disclaimers, terms, or warnings to the top, bottom, or within post, page, or custom post type content for WordPress
 
 == Description ==
 
